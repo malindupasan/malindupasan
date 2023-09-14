@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey there! I’m Malindu, a passionate CS undergraduate at the University of Colombo School of Computing 🎓.<br><br>🚀 I thrive on turning complex problems into elegant solutions using my coding skills in C++, JavaScript, and more. 💻 I have a knack for competitive programming, and I love tackling challenging problems with creative data structures and algorithms.<br><br>⛰️ When I’m not immersed in the world of code, you’ll often find me in the great outdoors, hiking and conquering mountains. 🏞️ There’s something magical about the intersection of nature’s challenges and the challenges of coding!<br><br>☁️ I’m also passionate in AWS (Amazon Web Services), and I enjoy working with cloud technologies to build scalable and reliable applications.<br><br>🔧 When I’m not coding or climbing, you can find me exploring new tech trends, experimenting with side projects, and continuously learning in the ever-evolving world of computer science.<br><br>🌟 Let’s connect and collaborate on exciting projects. Feel free to explore my repositories, and don’t hesitate to reach out for a chat or collaboration opportunity! 🤝</h2>
+<h4 align="left">👋 Hey there! I’m Malindu, a passionate CS undergraduate at the University of Colombo School of Computing 🎓.<br><br>🚀 I thrive on turning complex problems into elegant solutions using my coding skills in C++, JavaScript, and more. 💻 I have a knack for competitive programming, and I love tackling challenging problems with creative data structures and algorithms.<br><br>⛰️ When I’m not immersed in the world of code, you’ll often find me in the great outdoors, hiking and conquering mountains. 🏞️ There’s something magical about the intersection of nature’s challenges and the challenges of coding!<br><br>☁️ I’m also passionate in AWS (Amazon Web Services), and I enjoy working with cloud technologies to build scalable and reliable applications.<br><br>🔧 When I’m not coding or climbing, you can find me exploring new tech trends, experimenting with side projects, and continuously learning in the ever-evolving world of computer science.<br><br>🌟 Let’s connect and collaborate on exciting projects. Feel free to explore my repositories, and don’t hesitate to reach out for a chat or collaboration opportunity! 🤝</h4>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/1hMblyD983GXoTfCAl/giphy.gif"  />
 
 ###
 
